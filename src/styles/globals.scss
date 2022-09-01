@@ -1,0 +1,45 @@
+@import './fonts.scss';
+
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+:root {
+	font-size: 18px;
+	--color-text: #000000;
+	--color-text-alt: #fff;
+	--color-bg: #f0eff3;
+	--color-link: #aaa;
+	--color-link-hover: #fff;
+}
+
+html {
+	scroll-behavior: initial;
+	// overflow-x: hidden;
+}
+
+html, body{
+	width: 100%;
+	min-height: 100%;
+}
+
+body {
+	margin: 0;
+  padding: 0;
+	color: var(--color-text);
+	background-color: var(--color-bg);
+	font-family: "Helvetica-Now";
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+li{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+	color: currentColor;
+}

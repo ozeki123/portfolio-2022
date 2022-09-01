@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "category": "Personal project",
+      "date": "2022 September 01",
+      "image": "holo-image.jpg",
+      "title": "Sportify",
+      "subtitle": "booking",
+      "description": "A web app concept that allows people to book sports related spaces."
+    },
+    {
+      "category": "Professional development",
+      "date": "2022 September 01",
+      "image": "morph-for-men.png",
+      "title": "Morph",
+      "subtitle": "for men",
+      "description": "A website that allows users to purchase insurance policies tailored to men."
+    },
+    {
+      "category": "Professional development",
+      "date": "2022 September 01",
+      "image": "morph-for-women.png",
+      "title": "Morph",
+      "subtitle": "for women",
+      "description": "A website that allows users to purchase insurance policies tailored to women."
+    },
+    {
+      "category": "Professional development",
+      "date": "2022 September 01",
+      "image": "lifestyle.png",
+      "title": "Lifestyle",
+      "subtitle": "insurance",
+      "description": "A website that allows users to purchase lifestyle related insurance policies."
+    }
+  ]
+}
